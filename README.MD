@@ -7,7 +7,11 @@
  📍 Aonde foi testado 👉 [clique aqui](api-test-swart.vercel.app)
 
  📍 Vídeos da CFBCursos assistidos:
-    👉 Parte 1 [clique aqui](https://www.youtube.com/watch?v=VsXwvgW17ow)
-    👉 Parte 2 [clique aqui](https://www.youtube.com/watch?v=GrxM7aHyN84)
-    👉 Parte 3 [clique aqui](https://www.youtube.com/watch?v=ufb8a6ZztOM)
-    👉 Parte 4 [clique aqui](https://www.youtube.com/watch?v=fTqOfPfOFJE)
+ 
+ 👉 Parte 1 [clique aqui](https://www.youtube.com/watch?v=VsXwvgW17ow)
+
+ 👉 Parte 2 [clique aqui](https://www.youtube.com/watch?v=GrxM7aHyN84)
+
+ 👉 Parte 3 [clique aqui](https://www.youtube.com/watch?v=ufb8a6ZztOM)
+
+ 👉 Parte 4 [clique aqui](https://www.youtube.com/watch?v=fTqOfPfOFJE)
