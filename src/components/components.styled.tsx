@@ -2,17 +2,19 @@ import styled from "styled-components";
 
 export const UlStyled = styled.ul`
     display: flex;
-    align-items: center;
     flex-direction: column;
+    align-items: center;
     max-width: 500px;
     gap: 30px;
     padding: 30px 0;
     background-color: white;
     border-radius: 50px;
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    list-style: none;
 
     li{
         font-size: 1.2em;
+        
     }
 `;
 
